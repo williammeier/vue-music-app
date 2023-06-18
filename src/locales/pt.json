@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "login": "Entrar / Registrar-se",
+    "manage": "Gerenciar",
+    "logout": "Sair"
+  },
+  "player": {
+    "by": "por"
+  },
+  "home": {
+    "listen": "Ouça ótimas músicas!",
+    "listen_description": "Ouça e carregue suas músicas favoritas neste incrível site conceitual.",
+    "songs": "Músicas"
+  },
+  "song": {
+    "comment_count": "Sem comentários | 1 comentário | {count} comentários",
+    "submit": "Enviar",
+    "latest": "Recentes",
+    "oldest": "Antigos"
+  },
+
+  "auth": {
+    "your_account": "Sua Conta",
+    "login": "Entrar",
+    "register": "Registrar-se"
+  },
+  "login": {
+    "email": "E-mail",
+    "enter_email": "Inserir E-mail",
+    "password": "Senha",
+    "enter_password": "Inserir Senha"
+  },
+  "register": {
+    "name": "Nome",
+    "enter_name": "Inserir Nome",
+    "email": "E-mail",
+    "enter_email": "Inserir E-mail",
+    "age": "Idade",
+    "password": "Senha",
+    "enter_password": "Inserir Senha",
+    "confirm_password": "Confirmar Senha",
+    "enter_confirm_password": "Inserir Confirmação de Senha",
+    "country": "País",
+    "usa": "Estados Unidos",
+    "mexico": "México",
+    "germany": "Alemanha",
+    "antartica": "Antártica",
+    "accept": "Eu aceitos os {0}",
+    "tos": "Termos de Serviço"
+  },
+  "manage": {
+    "my_songs": "Minhas Músicas",
+    "song_title": "Título da música",
+    "genre": "Gênero",
+    "upload": "Upload",
+    "drop": "Solte seus arquivos aqui",
+    "submit": "Enviar",
+    "go_back": "Voltar"
+  }
+}
